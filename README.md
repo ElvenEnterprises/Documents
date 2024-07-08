@@ -1,5 +1,19 @@
 # Documents
-
+- [Team Agreement](https://github.com/ElvenEnterprises/Documents/blob/main/Team%20Agreement%20Ops%20301.pdf)
+- [System Selection](https://github.com/ElvenEnterprises/Documents/blob/main/ops-301d12_%20Elven%20Enterprises%20-%20System%20Selection.pdf)
+- [Employee Handbook](https://github.com/ElvenEnterprises/Documents/blob/main/Employee%20Termination.pdf)
+- [Acceptable Use Agreement](https://github.com/ElvenEnterprises/Documents/blob/main/Acceptable%20Use%20Agreement.pdf)
+- [New Employee Onboarding](https://github.com/ElvenEnterprises/Documents/blob/main/New%20Employee%20Onboarding.pdf)
+- [Cybersecurity](https://github.com/ElvenEnterprises/Documents/blob/main/Cybersecurity.pdf)
+- [Back up & Data restoration](https://github.com/ElvenEnterprises/Documents/blob/main/Back%20Up%20%26%20Data%20Restoration.pdf)
+- [Network Monitoring](https://github.com/ElvenEnterprises/Documents/blob/main/Network%20monitoring.pdf)
+- [Employee Termination](https://github.com/ElvenEnterprises/Documents/blob/main/Employee%20Termination.pdf)
+- [Secure/Personal Information Disposal](https://github.com/ElvenEnterprises/Documents/blob/main/Secure_Personal%20Information%20Disposal.pdf)
+- [Network Change Management](https://github.com/ElvenEnterprises/Documents/blob/main/Network%20Change%20Management.pdf)
+- [Slideshow](https://github.com/ElvenEnterprises/Documents/blob/main/Ops%20301%20Presentation%20.pdf)
+- [Rough Topology](https://github.com/ElvenEnterprises/Documents/blob/main/Updated%20Network%20Topology.pdf)
+- [File Share Topolgy](https://github.com/ElvenEnterprises/Documents/blob/main/File%20Share%20Top.drawio.png)
+- [Written Topology Explanation](https://github.com/ElvenEnterprises/Documents/blob/main/Written%20Topology%20.pdf)
 # Scripts
 - [Creating new users in active directory](ADUsers.ps1)
 - [Configure system policies](SystemPolicies.ps1)
